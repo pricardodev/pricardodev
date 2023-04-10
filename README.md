@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paulo Ricardo Gomes Albuquerque
 =======================================================================================================================================================
 
-Analista e Desenvolvedor de sistemas
+I am a systems analyst and developer
 ------------------------------------
 
-Formado em análise e desenvolvimento de sistemas e pós graduação em Engenharia de Software, trabalho no núcleo de tecnologia da Universidade Estadual Vale do Acaraú como Tech Lead. Sou um eterno entusiasta nos estudos sobre tecnologia, trabalho nas horas vagas como freelancer prestando serviço de consultoria, tutoria e desenvolvimento de softwares em algumas empresas da minha região, Clínica do Coração de Sobral e Seduc Sobral.
+I have a degree in systems analysis and development and a post-graduate degree in Software Engineering. Currently, I work as a Tech Lead in the technology department at Vale do Acaraú State University. I am always enthusiastic about learning more about technology and I work as a freelancer in my free time, providing consulting, tutoring, and software development services to some companies in my region, such as the Sobral Heart Clinic and Seduc Sobral.
 
 * 🌍  I'm based in Sobral
 * ✉️  You can contact me at [p.ricardodev@gmail.com](mailto:p.ricardodev@gmail.com)
