@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/pricardodev?logo=github&style=for-t
 ### Learning
 
 <p align="left">
-    <a href="https://reactnative.dev/docs/environment-setup" target="_blank" rel="noreferrer"><i class="devicon-react-original-wordmark colored"></i></a>
+    <a href="https://reactnative.dev/docs/environment-setup" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Laravel" style="max-width: 100%;"></a>
 </p>
           
 
